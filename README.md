@@ -88,16 +88,39 @@ public interface KategoriBantuan {
 
 ## Output Program
 Alur kerja Menu Logistik dan Menu Dana sangat identik, berikut adalah kedua tampilan CRUD dari program
-1. Menu awal
-2. READ \
-- Dana
-- Logistik
-3. CREATE \
-- Dana
-- Logistik
-4. UPDATE \
-- Dana
-- Logistik
-5. DELETE \
-- Dana
-- Logistik
+1. Menu awal \
+<img width="518" height="120" alt="image" src="https://github.com/user-attachments/assets/738ad804-705a-4e6e-a3f0-dace439ebab3" /> \
+- Dana \
+<img width="289" height="157" alt="image" src="https://github.com/user-attachments/assets/ac5f705f-57ea-4b25-8679-b588a88cf516" /> \
+
+- Logistik \
+  <img width="346" height="164" alt="image" src="https://github.com/user-attachments/assets/adb56f6a-6a89-443b-af40-c299211d587f" /> \
+
+
+2. READ 
+- Dana \
+<img width="764" height="615" alt="image" src="https://github.com/user-attachments/assets/4dfd7cb9-e9e2-42ce-a202-23bd50be80c4" /> \
+
+- Logistik \
+  <img width="426" height="616" alt="image" src="https://github.com/user-attachments/assets/c6570555-1220-481e-9408-e630f325e33d" /> \
+
+3. CREATE 
+- Dana \
+<img width="385" height="273" alt="image" src="https://github.com/user-attachments/assets/8addc219-71b8-431f-89c2-3e961f626a7a" /> \
+- Logistik \
+  <img width="422" height="294" alt="image" src="https://github.com/user-attachments/assets/44e066c5-636b-49a4-b48f-0ce411d205f7" /> \
+
+4. UPDATE 
+- Dana \
+  <img width="387" height="95" alt="image" src="https://github.com/user-attachments/assets/c2409c23-1cf5-4159-aa74-aaa521bfe145" /> \
+
+- Logistik \
+  <img width="401" height="99" alt="image" src="https://github.com/user-attachments/assets/909ae311-46ea-4889-b469-53d125aa5b4f" /> \
+
+5. DELETE 
+- Dana \
+  <img width="305" height="116" alt="image" src="https://github.com/user-attachments/assets/710067e5-0dfc-45c2-aaf9-26aad0ac3b7c" /> \
+
+- Logistik \
+  <img width="383" height="74" alt="image" src="https://github.com/user-attachments/assets/6d835097-f100-4be8-8908-038bfd1c467f" /> \
+
