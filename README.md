@@ -124,3 +124,11 @@ Alur kerja Menu Logistik dan Menu Dana sangat identik, berikut adalah kedua tamp
 - Logistik \
   <img width="383" height="74" alt="image" src="https://github.com/user-attachments/assets/6d835097-f100-4be8-8908-038bfd1c467f" /> \
 
+6. Validation Input \
+   <img width="234" height="88" alt="image" src="https://github.com/user-attachments/assets/7560e768-26d4-4009-82df-89f8c00b6fe6" /> \
+   <img width="315" height="77" alt="image" src="https://github.com/user-attachments/assets/a1ad3403-99f1-4456-a543-28866ae75d60" /> \
+   <img width="383" height="93" alt="image" src="https://github.com/user-attachments/assets/0109d4c1-1cb5-409d-bff0-3df5d3ccaf8a" /> \
+   <img width="344" height="71" alt="image" src="https://github.com/user-attachments/assets/60d19d47-d00e-4a42-ac44-ad06e6994e5b" /> \
+   <img width="429" height="114" alt="image" src="https://github.com/user-attachments/assets/225ddef1-867a-4b5f-b5ee-cd522caba984" />
+
+
